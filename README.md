@@ -1,2 +1,1 @@
-# transfer-learning
-transfer learning via keras
+# Transfer learning using keras on ResNet 50
